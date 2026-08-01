@@ -1,4 +1,4 @@
-# Forex REST API
+# Coffee REST API
 
 โปรเจกต์นี้เป็น REST API ที่พัฒนาด้วย Spring Boot สำหรับจัดการข้อมูล Coffee โดยใช้ List ในหน่วยความจำ
 
